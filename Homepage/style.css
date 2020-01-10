@@ -1,0 +1,23 @@
+.sub-text {
+    font-family: 'Bitter', serif;
+    color: whitesmoke;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.main-text {
+    font-family: 'Roboto Slab', serif;
+    color: whitesmoke;
+    font-size: 40px;
+    font-weight: 900;
+    /* margin-top: -2% !important; */
+    padding-top: 40%;
+}
+.main-text1 {
+    font-family: 'Roboto Slab', serif;
+    color: whitesmoke;
+    font-size: 40px;
+    font-weight: 900;
+    margin-top: 40% !important;
+    /* padding-top: 50%; */
+}
