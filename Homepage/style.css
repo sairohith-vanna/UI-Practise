@@ -5,13 +5,20 @@
     font-weight: bold;
 }
 
+.cntnr {
+    margin-top: 30%;
+}
+.img-mario {
+    height: 150px;
+    width: 100px;
+}
+
 .main-text {
     font-family: 'Roboto Slab', serif;
     color: whitesmoke;
     font-size: 40px;
-    font-weight: 900;
-    /* margin-top: -2% !important; */
-    padding-top: 40%;
+    font-weight: 900; 
+    
 }
 .main-text1 {
     font-family: 'Roboto Slab', serif;
